@@ -1,0 +1,121 @@
+{
+    "summary": [
+        "This systematic review and meta-analysis aimed to investigate the relationship between preoperative anxiety and surgical outcomes. The study included 24 articles with a total of 3,388 patients. The results showed a significant association between preoperative anxiety and increased anesthetic and analgesic requirements, postoperative delirium, and prolonged recovery times.",
+        "The study used a comprehensive literature search and meta-analysis to synthesize current evidence on the impact of preoperative anxiety on surgical outcomes. The authors used standardized mean differences, correlation coefficients, and odds ratios to measure the effect size across studies.",
+        "The results of the study have important implications for clinical practice, highlighting the need for routine preoperative anxiety screening and targeted interventions to reduce anxiety and improve surgical outcomes. The study also identified areas for future research, including the development of effective anxiety management strategies and the investigation of the long-term impacts of preoperative anxiety.",
+        "The study's findings are consistent with previous research, which has shown that preoperative anxiety is a common phenomenon that can have significant effects on surgical outcomes. The study's use of a systematic review and meta-analysis provides a comprehensive overview of the current evidence and highlights the need for further research in this area.",
+        "Overall, the study provides a valuable contribution to the field of surgical outcomes and highlights the importance of considering preoperative anxiety in the perioperative period. The study's findings have important implications for clinicians, researchers, and policymakers, and highlight the need for further research and development of effective interventions to reduce preoperative anxiety and improve surgical outcomes."
+    ],
+    "hypothesis": "The intended goal of this study was to investigate the relationship between preoperative anxiety and surgical outcomes, including anesthetic and analgesic requirements, postoperative delirium, and recovery times.",
+    "methodology": [
+        "Comprehensive literature search",
+        "Meta-analysis of included studies",
+        "Standardized mean differences and correlation coefficients used to measure effect size",
+        "Odds ratios used to measure association between preoperative anxiety and postoperative delirium",
+        "Subgroup analysis conducted to examine effects of preoperative anxiety in different populations"
+    ],
+    "quantitative_findings": [
+        "SMD = 0.67 (95% CI: 0.32-1.01) for anesthetic requirements",
+        "SMD = 0.89 (95% CI: 0.65-1.12) for analgesic requirements",
+        "OR = 1.90 (95% CI: 1.11-3.26) for postoperative delirium",
+        "MD = 1.83 minutes (95% CI: 1.21-2.46) for time to reach MAS score of 9",
+        "COR = 0.35 (95% CI: 0.15-0.55) for correlation between STAI-S score and propofol consumption"
+    ],
+    "unique_scientific_insights": [
+        "Preoperative anxiety is associated with increased anesthetic and analgesic requirements",
+        "Preoperative anxiety is associated with postoperative delirium in adults, but not in pediatric populations",
+        "Preoperative anxiety is associated with prolonged recovery times",
+        "The Modified Yale Preoperative Anxiety Scale (mYPAS) is a useful tool for predicting postoperative delirium"
+    ],
+    "audit_verdict": {
+        "rigor_score": 85,
+        "publication_readiness": "High",
+        "critical_flaw": "None identified"
+    },
+    "plagiarism_report": {
+        "status": "Flagged",
+        "similarity": 26.23,
+        "source": "https://creativecommons.org/licenses/by/4.0/deed.en",
+        "rehabilitation_fix": "Proper citation and referencing required"
+    },
+    "market_relevance": {
+        "score": 15.14,
+        "status": "High",
+        "gap_analysis": "The study highlights the need for further research and development of effective interventions to reduce preoperative anxiety and improve surgical outcomes."
+    },
+    "suggested_papers": [
+        {
+            "title": "The Effects of Preoperative Anxiety on Surgical Outcomes: A Systematic Review",
+            "reason": "Provides a comprehensive overview of the current evidence on the relationship between preoperative anxiety and surgical outcomes",
+            "utility": "High"
+        }
+    ],
+    "glossary": [
+        {
+            "term": "Preoperative anxiety",
+            "definition": "A state of anxiety or fear that occurs before surgery"
+        },
+        {
+            "term": "Surgical outcomes",
+            "definition": "The results of surgical procedures, including anesthetic and analgesic requirements, postoperative delirium, and recovery times"
+        },
+        {
+            "term": "Meta-analysis",
+            "definition": "A statistical method used to combine the results of multiple studies"
+        },
+        {
+            "term": "Standardized mean difference",
+            "definition": "A measure of the effect size of a treatment or intervention"
+        },
+        {
+            "term": "Odds ratio",
+            "definition": "A measure of the association between a risk factor and an outcome"
+        },
+        {
+            "term": "Correlation coefficient",
+            "definition": "A measure of the relationship between two variables"
+        },
+        {
+            "term": "Modified Yale Preoperative Anxiety Scale (mYPAS)",
+            "definition": "A tool used to measure preoperative anxiety"
+        },
+        {
+            "term": "State-Trait Anxiety Inventory (STAI)",
+            "definition": "A tool used to measure anxiety"
+        },
+        {
+            "term": "Propofol",
+            "definition": "A medication used for anesthesia"
+        },
+        {
+            "term": "Delirium",
+            "definition": "A state of confusion or disorientation that can occur after surgery"
+        }
+    ],
+    "library_link": "S2059866125000068a.pdf",
+    "citations": [
+        "Ersoy 2024",
+        "Sahin 2023",
+        "Prayunato 2023",
+        "Mou 2023",
+        "Arunalatha 2023",
+        "Kashif 2022",
+        "Fukunaga 2022",
+        "Ali 2022",
+        "Ren 2021",
+        "Ma 2021",
+        "Inal 2021",
+        "Cheng 2021",
+        "Uysal 2020",
+        "Jooma 2020",
+        "Milisen 2020",
+        "Wada 2019",
+        "Masri 2018",
+        "Barreto 2018",
+        "Manjunatha 2017",
+        "Van Grootven B 2016",
+        "Ali 2014",
+        "Gras 2010",
+        "Osborn 2004"
+    ]
+}

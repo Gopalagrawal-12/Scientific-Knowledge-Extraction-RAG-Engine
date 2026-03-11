@@ -1,0 +1,52 @@
+{
+    "summary": [
+        "The study focuses on analyzing the influence of site planning aspects of landscaping on the energy efficiency of residences in Kerala, a warm and humid climate.",
+        "A well-planned landscape design can improve energy efficiency, enhance aesthetic value, and provide screening for privacy and buffering.",
+        "The study examines three case studies: The Regimented House, Halaman-The Courtyard House, and Good Earth Aangan, to identify parameters for energy-efficient landscape design.",
+        "The results show that strategically planned landscape design can produce a cooling effect, leading to energy efficiency, by reducing the heat entering the building envelope and providing shade and natural ventilation.",
+        "The study concludes that designing energy-efficient residences is crucial, and careful consideration of external spaces, including landscape design, can reduce energy consumption by 50-80%."
+    ],
+    "hypothesis": "A strategically planned landscape design can improve the energy efficiency of residences in Kerala.",
+    "methodology": [
+        "Selection of case studies",
+        "Analysis of site planning aspects of landscaping",
+        "Identification of parameters for energy-efficient landscape design",
+        "Examination of the impact of landscape design on energy efficiency"
+    ],
+    "quantitative_findings": [
+        "50-80% reduction in energy consumption for cooling and ventilation",
+        "40-60% of total energy use is estimated for cooling and ventilation needs",
+        "49% of total energy use is accounted for by building construction and operation"
+    ],
+    "unique_scientific_insights": [
+        "The importance of considering microclimate and topography in landscape design",
+        "The role of vegetation in modifying the outdoor and indoor environment",
+        "The impact of landscape design on energy efficiency and building maintenance costs",
+        "The need for careful positioning of trees, shrubs, and ground cover to reduce temperature and create a comfortable environment",
+        "The potential for landscape design to aid in energy conservation and reduce environmental impact"
+    ],
+    "limitations": [
+        "The study focuses on a specific climate and region (Kerala)",
+        "The study is limited to residential buildings and does not consider other types of buildings",
+        "The study relies on case studies and may not be generalizable to other contexts"
+    ],
+    "glossary": [
+        {
+            "term": "Microclimate",
+            "definition": "The local atmospheric conditions that distinguish a small area from its surroundings"
+        },
+        {
+            "term": "Evapotranspiration",
+            "definition": "The process by which plants release water vapor into the air"
+        },
+        {
+            "term": "Hardscape",
+            "definition": "The non-living elements of a landscape, such as pavements, roads, and buildings"
+        }
+    ],
+    "citations": [
+        "[1] A, N. M. (2013). Energy Efficient Building Design: Revisiting Traditional Architecture.",
+        "[2] Ramesh, Energy efficient landscape for thermal comfort in buildings and built-up areas, 2016",
+        "[3] Fitrynadia Mohd Shahli, 2014"
+    ]
+}

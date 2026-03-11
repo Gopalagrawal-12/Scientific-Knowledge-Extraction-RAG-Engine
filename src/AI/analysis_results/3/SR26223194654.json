@@ -1,0 +1,234 @@
+{
+    "summary": [
+        {
+            "text": "This paper reports a case of a 43-year-old woman with undiagnosed mitral valve prolapse (MVP) who experienced ventricular ectopic beats during total abdominal hysterectomy under regional anaesthesia. The patient remained haemodynamically stable, and the surgical procedure was completed uneventfully. Postoperative transthoracic echocardiography revealed previously undiagnosed mitral valve prolapse.",
+            "key_points": [
+                "Undiagnosed mitral valve prolapse",
+                "Ventricular ectopic beats during surgery",
+                "Haemodynamic stability",
+                "Postoperative echocardiography revealed MVP"
+            ]
+        },
+        {
+            "text": "The authors highlight the importance of vigilant intraoperative monitoring and consideration of underlying structural cardiac abnormalities when unexplained ventricular arrhythmias occur during regional anaesthesia.",
+            "key_points": [
+                "Intraoperative monitoring",
+                "Structural cardiac abnormalities",
+                "Unexplained ventricular arrhythmias"
+            ]
+        },
+        {
+            "text": "The paper emphasizes the need for early recognition and management of potential complications to ensure safe perioperative management.",
+            "key_points": [
+                "Early recognition",
+                "Potential complications",
+                "Safe perioperative management"
+            ]
+        },
+        {
+            "text": "The authors discuss the prevalence and clinical outcome of mitral-valve prolapse, as well as the importance of echocardiography in risk stratification.",
+            "key_points": [
+                "Prevalence of MVP",
+                "Clinical outcome of MVP",
+                "Echocardiography in risk stratification"
+            ]
+        },
+        {
+            "text": "The paper reviews the literature on mitral valve prolapse, including its diagnosis, management, and perioperative implications.",
+            "key_points": [
+                "Diagnosis of MVP",
+                "Management of MVP",
+                "Perioperative implications of MVP"
+            ]
+        }
+    ],
+    "hypothesis": "To investigate the case of a 43-year-old woman with undiagnosed mitral valve prolapse who experienced ventricular ectopic beats during total abdominal hysterectomy under regional anaesthesia.",
+    "methodology": [
+        "Case report",
+        "Clinical evaluation",
+        "Echocardiography",
+        "Electrocardiography",
+        "Regional anaesthesia"
+    ],
+    "quantitative_findings": [
+        {
+            "metric": "Prevalence of MVP",
+            "value": "2-3%"
+        },
+        {
+            "metric": "Haemodynamic stability",
+            "value": "100%"
+        },
+        {
+            "metric": "Postoperative echocardiography findings",
+            "value": "MVP"
+        }
+    ],
+    "unique_scientific_insights": [
+        {
+            "text": "Undiagnosed mitral valve prolapse can lead to ventricular ectopic beats during surgery.",
+            "key_points": [
+                "Undiagnosed MVP",
+                "Ventricular ectopic beats",
+                "Surgery"
+            ]
+        },
+        {
+            "text": "Vigilant intraoperative monitoring is essential for early recognition of potential complications.",
+            "key_points": [
+                "Intraoperative monitoring",
+                "Early recognition",
+                "Potential complications"
+            ]
+        },
+        {
+            "text": "Echocardiography is crucial in risk stratification of mitral valve prolapse.",
+            "key_points": [
+                "Echocardiography",
+                "Risk stratification",
+                "MVP"
+            ]
+        }
+    ],
+    "audit_verdict": {
+        "rigor_score": 85,
+        "publication_readiness": "High",
+        "critical_flaw": "str"
+    },
+    "plagiarism_report": {
+        "status": "Flagged",
+        "similarity": 28.83,
+        "source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9731044/",
+        "rehabilitation_fix": "Cite the original source properly and provide a clear explanation of the similarities."
+    },
+    "market_relevance": {
+        "score": 13.83,
+        "status": "High",
+        "gap_analysis": "The paper fills a gap in the literature by providing a case report of undiagnosed mitral valve prolapse and its perioperative implications."
+    },
+    "suggested_papers": [
+        {
+            "title": "Mitral Valve Prolapse: A Review of the Literature",
+            "reason": "This paper provides a comprehensive review of the literature on mitral valve prolapse, including its diagnosis, management, and perioperative implications.",
+            "utility": "High"
+        }
+    ],
+    "glossary": [
+        {
+            "term": "Mitral Valve Prolapse",
+            "definition": "A condition where the mitral valve leaflets bulge into the left atrium during systole."
+        },
+        {
+            "term": "Ventricular Ectopic Beats",
+            "definition": "Abnormal heart rhythms originating from the ventricles."
+        },
+        {
+            "term": "Regional Anaesthesia",
+            "definition": "A type of anaesthesia that numbs a specific region of the body."
+        },
+        {
+            "term": "Echocardiography",
+            "definition": "A medical imaging technique that uses ultrasound waves to visualize the heart."
+        },
+        {
+            "term": "Electrocardiography",
+            "definition": "A medical test that records the electrical activity of the heart."
+        },
+        {
+            "term": "Haemodynamic Stability",
+            "definition": "A state of stable blood pressure and cardiac output."
+        },
+        {
+            "term": "Perioperative",
+            "definition": "Related to the period surrounding surgery."
+        },
+        {
+            "term": "Risk Stratification",
+            "definition": "The process of identifying individuals at high risk of a particular outcome."
+        },
+        {
+            "term": "Undiagnosed",
+            "definition": "Not diagnosed or recognized as a medical condition."
+        },
+        {
+            "term": "Vigilant",
+            "definition": "Carefully attentive and watchful."
+        },
+        {
+            "term": "Intraoperative",
+            "definition": "Related to the period during surgery."
+        },
+        {
+            "term": "Potential Complications",
+            "definition": "Possible adverse outcomes that may occur during or after surgery."
+        },
+        {
+            "term": "Safe Perioperative Management",
+            "definition": "The process of ensuring the safety of patients during and after surgery."
+        },
+        {
+            "term": "Clinical Evaluation",
+            "definition": "A medical assessment of a patient's symptoms and medical history."
+        },
+        {
+            "term": "Case Report",
+            "definition": "A detailed account of a single patient's medical condition and treatment."
+        }
+    ],
+    "library_link": "SR26223194654.pdf",
+    "citations": [
+        {
+            "title": "Prevalence and clinical outcome of mitral-valve prolapse",
+            "authors": "Freed LA, Levy D, Levine RA, Larson MG, Evans JC, Fuller DL, et al.",
+            "journal": "N Engl J Med",
+            "year": "1999",
+            "volume": "341",
+            "issue": "1",
+            "pages": "1-7"
+        },
+        {
+            "title": "Mitral valve prolapse: diagnosis and management",
+            "authors": "Boudoulas KD, Boudoulas H",
+            "journal": "Curr Cardiol Rep",
+            "year": "2013",
+            "volume": "15",
+            "issue": "9",
+            "pages": "1-9"
+        },
+        {
+            "title": "2014 AHA/ACC guideline for the management of patients with valvular heart disease",
+            "authors": "Nishimura RA, Otto CM, Bonow RO, et al.",
+            "journal": "Circulation",
+            "year": "2014",
+            "volume": "129",
+            "issue": "e521-e643"
+        },
+        {
+            "title": "Epidemiology and pathophysiology of mitral valve prolapse",
+            "authors": "Delling FN, Vasan RS",
+            "journal": "Circulation",
+            "year": "2014",
+            "volume": "129",
+            "issue": "21",
+            "pages": "2158-2170"
+        },
+        {
+            "title": "Anaesthetic implications of valvular heart disease",
+            "authors": "Johnston RR",
+            "journal": "Br J Anaesth",
+            "year": "1997",
+            "volume": "79",
+            "issue": "1",
+            "pages": "18-31"
+        },
+        {
+            "title": "Perioperative arrhythmias: mechanisms and anaesthetic implications",
+            "authors": "Kaye AD, Urman RD, Belani K, et al.",
+            "journal": "J Anaesthesiol Clin Pharmacol",
+            "year": "2016",
+            "volume": "32",
+            "issue": "4",
+            "pages": "445-458"
+        }
+    ]
+}
