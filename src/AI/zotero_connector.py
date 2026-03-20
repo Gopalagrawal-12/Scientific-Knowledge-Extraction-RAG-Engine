@@ -9,7 +9,6 @@ class ZoteroSideSector:
     def __init__(self, library_id, api_key):
         # Library ID and API Key are passed per user to ensure segregation
         self.zot = zotero.Zotero(library_id, 'user', api_key)
-
     def get_organized_library(self)  :
         """Fetches items and organizes them by user-defined collections (folders)."""
         try:
