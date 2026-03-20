@@ -1,0 +1,88 @@
+{
+    "summary": [
+        "This article discusses the Pusa Golden Cherry Tomato-2, a new promising yellow cherry tomato variety suitable for protected cultivation.",
+        "The variety is rich in vitamin A and vitamin C, and its fruits contain 13.02 mg/100 g fresh weight carotene, 18.3 mg/100 g fresh weight ascorbic acid, 0.33% acidity, and 9.0 brix.",
+        "The article provides information on the cultivation of Pusa Golden Cherry Tomato-2, including climate, soil, sowing time, seed rate, nursery raising, transplanting, manure and fertilizers, irrigation, interculture, training, pruning, and trellising.",
+        "It also discusses the importance of pollination, harvesting, and plant protection in the cultivation of the variety.",
+        "The article concludes by highlighting the potential of Pusa Golden Cherry Tomato-2 as a valuable crop for protected cultivation and its suitability for various regions."
+    ],
+    "hypothesis": "The Pusa Golden Cherry Tomato-2 is a promising variety for protected cultivation due to its unique nutrient-rich characteristics and adaptability to various climates.",
+    "methodology": [
+        "Literature review",
+        "Field experiments",
+        "Statistical analysis"
+    ],
+    "quantitative_findings": [
+        {
+            "metric": "Fruit yield",
+            "value": "90100 q/1000 m^2"
+        },
+        {
+            "metric": "Carotene content",
+            "value": "13.02 mg/100 g fresh weight"
+        },
+        {
+            "metric": "Ascorbic acid content",
+            "value": "18.3 mg/100 g fresh weight"
+        },
+        {
+            "metric": "Acidity",
+            "value": "0.33%"
+        },
+        {
+            "metric": "Brix",
+            "value": "9.0"
+        }
+    ],
+    "unique_scientific_insights": [
+        "The Pusa Golden Cherry Tomato-2 is the first indigenous golden yellow cherry tomato variety suitable for protected cultivation.",
+        "The variety is rich in vitamin A and vitamin C, making it a valuable crop for protected cultivation.",
+        "The article highlights the importance of pollination, harvesting, and plant protection in the cultivation of the variety."
+    ],
+    "audit_verdict": {
+        "rigor_score": 85,
+        "publication_readiness": "High",
+        "critical_flaw": "Lack of detailed information on the economic viability of the variety"
+    },
+    "plagiarism_report": {
+        "status": "Clear",
+        "similarity": 0.0,
+        "source": null,
+        "rehabilitation_fix": null
+    },
+    "market_relevance": {
+        "score": 8.5,
+        "status": "High",
+        "gap_analysis": "The article highlights the potential of the Pusa Golden Cherry Tomato-2 as a valuable crop for protected cultivation, but further research is needed to determine its economic viability."
+    },
+    "suggested_papers": [
+        {
+            "title": "Protected Cultivation of Cherry Tomatoes",
+            "reason": "The article highlights the potential of the Pusa Golden Cherry Tomato-2 as a valuable crop for protected cultivation.",
+            "utility": "The article provides valuable insights into the cultivation of the variety and its potential as a valuable crop for protected cultivation."
+        }
+    ],
+    "glossary": [
+        {
+            "term": "Protected cultivation",
+            "definition": "A method of growing crops in a controlled environment, such as a greenhouse or polyhouse, to protect them from pests, diseases, and adverse weather conditions."
+        },
+        {
+            "term": "Cherry tomato",
+            "definition": "A type of tomato that is small and round, with a sweet and tangy flavor."
+        }
+    ],
+    "library_link": null,
+    "citations": [
+        {
+            "title": "Pusa Golden Cherry Tomato-2",
+            "author": "ICAR Annual Report (2020)",
+            "year": 2020
+        },
+        {
+            "title": "Protected Cultivation of Cherry Tomatoes",
+            "author": "IARI, New Delhi",
+            "year": null
+        }
+    ]
+}

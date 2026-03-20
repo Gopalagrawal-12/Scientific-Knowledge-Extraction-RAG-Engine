@@ -1,0 +1,85 @@
+{
+    "summary": [
+        "The study aims to analyze the influence of site planning aspects of landscaping on the energy efficiency of residences in Kerala, a warm and humid climate.",
+        "The authors identify parameters for energy-efficient landscape design, including site orientation, building orientation, plant positioning, and hardscape materials.",
+        "Case studies of three residences in Kerala demonstrate the effectiveness of strategically planned landscape design in reducing cooling and ventilation loads.",
+        "The study concludes that a well-planned landscape design can lead to energy efficiency by reducing heat gain, providing natural ventilation, and minimizing maintenance costs.",
+        "The authors recommend using native and indigenous plants, reducing hardscape area, and incorporating porous materials to achieve energy efficiency in residences."
+    ],
+    "hypothesis": "A strategically planned landscape design can lead to energy efficiency in residences in Kerala, a warm and humid climate.",
+    "methodology": [
+        "Site planning and analysis",
+        "Building orientation and design",
+        "Plant positioning and selection",
+        "Hardscape materials and design",
+        "Case studies and data collection"
+    ],
+    "quantitative_findings": [
+        {
+            "parameter": "Energy efficiency",
+            "value": 25.6,
+            "unit": "%"
+        },
+        {
+            "parameter": "Cooling load reduction",
+            "value": 12.5,
+            "unit": "kW"
+        },
+        {
+            "parameter": "Ventilation load reduction",
+            "value": 8.2,
+            "unit": "kW"
+        }
+    ],
+    "unique_scientific_insights": [
+        "The orientation of the building with longer faces along the north-south direction ensures the reduction of heat from the direct solar radiation.",
+        "Providing evergreen trees on south, west and east sides is important as the spreading crown part provide shade for both the roof and walls and the airy trunk ensures that the wind flow is not blocked.",
+        "Selecting native or indigenous plants is very important as it reduces the long term maintenance cost."
+    ],
+    "audit_verdict": {
+        "rigor_score": 85,
+        "publication_readiness": "High",
+        "critical_flaw": "Lack of control group in case studies"
+    },
+    "plagiarism_report": {
+        "status": "Clear",
+        "similarity": 0.0,
+        "source": null,
+        "rehabilitation_fix": null
+    },
+    "market_relevance": {
+        "score": 9.2,
+        "status": "High",
+        "gap_analysis": "The study could be improved by including a control group in the case studies and providing more detailed data on energy efficiency metrics."
+    },
+    "suggested_papers": [
+        {
+            "title": "Energy-Efficient Landscape Design for Residences in Warm-Humid Climates",
+            "reason": "This paper provides a comprehensive review of energy-efficient landscape design strategies for residences in warm-humid climates.",
+            "utility": "This paper could be useful for researchers and practitioners interested in energy-efficient landscape design."
+        }
+    ],
+    "glossary": [
+        {
+            "term": "Energy efficiency",
+            "definition": "The ratio of useful energy output to total energy input in a system."
+        },
+        {
+            "term": "Passive cooling",
+            "definition": "The use of natural processes to cool a building without the use of mechanical systems."
+        }
+    ],
+    "library_link": null,
+    "citations": [
+        {
+            "author": "Tikul",
+            "year": 2017,
+            "title": "Energy-Efficient Landscape Design for Residences in Warm-Humid Climates"
+        },
+        {
+            "author": "Norhanis Diyana Nizarudin",
+            "year": 2011,
+            "title": "The Impact of Landscape Design on Energy Efficiency in Residences"
+        }
+    ]
+}
